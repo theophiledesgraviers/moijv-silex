@@ -34,6 +34,5 @@ $app['pdo'] = function(){
                 ));
 };
 
-/*
 
 return $app;
